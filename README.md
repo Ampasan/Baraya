@@ -1,10 +1,4 @@
-# Baraya - THR Minggu 4 State Management
-
-## Informasi Mahasiswa
-
-- Nama : Naufal Rakan Ramadhan
-- NIM : 2410501042
-- Opsi : C - Baraya
+# Baraya
 
 ## Deskripsi Aplikasi
 
